@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kefiii
-- 👀 I’m interested in Ethical Hacking, C++, Java
+- 👀 I’m interested in Ethical Hacking, C++, DSA sometimes and Java
 - 🌱 I’m currently learning Ethical Hackinng
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my email id 
