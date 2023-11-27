@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kefiii
-- 👀 I’m interested in Ethical Hacking, C++, DSA sometimes and Java
-- 🌱 I’m currently learning Ethical Hackinng
+- 👀 I’m interested in Ethical Hacking, C++, DSA sometimes and Python
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my email id 
 
